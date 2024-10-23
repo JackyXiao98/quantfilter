@@ -1,5 +1,7 @@
 # Doppler+ (Kalman filter for DP optimizers)
 
+Disclaim: This repo is copied from https://anonymous.4open.science/r/KalmanDP-BEDB/ReadME.md. It's only for personal experiment.
+
 Key requirements:
 * deepspeed
 * fast-differential-privacy
